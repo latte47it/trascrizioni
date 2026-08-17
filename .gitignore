@@ -1,0 +1,8 @@
+# 1. Ignora tutto per default
+*
+
+# 2. Eccezioni: traccia solo questi specifici tipi di file
+!*.py
+!*.ps1
+!*.sql
+!.gitignore
