@@ -6,3 +6,15 @@
 !*.ps1
 !*.sql
 !.gitignore
+
+# creazione
+# git remote add origin https://github.com/latte47it/trascrizioni.git
+# git remote -v
+# git push -u origin main
+
+
+
+# dopo aver fatto modifiche dare questi comandi
+#git add .
+#git commit -m "Descrizione delle modifiche fatte"
+#git push
